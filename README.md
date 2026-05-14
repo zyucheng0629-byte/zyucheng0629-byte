@@ -125,7 +125,10 @@ Current progress:
 ### London Air Quality JavaFX App
 
 A JavaFX-based air pollution visualization system.
+## Demo
 
+![Demo](screenshot/home.png)
+[▶ Demo：](https://b23.tv/tG76saT)
 Features:
 - Real-time AQI API
 - Pollution filtering
