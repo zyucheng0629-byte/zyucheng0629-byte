@@ -1,34 +1,92 @@
-## 关于我
+# 卓宇城 | Yucheng Zhuo
 
 伦敦国王学院（KCL）计算机科学专业学生。
 
 目前关注方向：
+
 - 后端开发
-- 强化学习
+- 强化学习（RL）
 - 自动驾驶
 - 软件工程
 
+---
+
 ## 技术栈
 
+### 编程语言
 - Java
 - Python
 - SQL
+- JavaScript
+
+### 开发工具
+- Git & GitHub
 - JavaFX
 - Linux
+- MySQL
+- Arduino Nano
 
-## 项目
+### 学习方向
+- 数据结构与算法
+- 后端开发
+- 强化学习
+- 系统设计
+
+---
+
+## 项目经历
 
 ### F1TENTH 自动驾驶强化学习环境
 
 基于 WSL2 + Ubuntu 搭建 F1TENTH Gym 自动驾驶强化学习环境。
 
+目前已完成：
+
+- 仿真环境部署
+- Waypoint Following 基础实验
+- 强化学习实验流程搭建
+
+技术栈：
+
+- Ubuntu
+- WSL2
+- Python
+- Reinforcement Learning
+
+---
+
 ### 伦敦空气质量 JavaFX APP
 
-基于 JavaFX 的空气质量可视化系统。
+基于 JavaFX 开发的空气污染可视化系统。
+
+实现功能：
+
+- 实时 AQI 数据接口
+- 污染物筛选
+- 趋势分析
+- 动态 UI 展示
+- 数据索引与筛选
+
+技术栈：
+
+- Java
+- JavaFX
+- GitHub Collaboration
+
+---
 
 ### Arduino Nano 嵌入式实验
 
-实现 LED 控制、GPIO 输出与定时逻辑。
+基于 Arduino Nano 开发板实现基础嵌入式控制实验。
+
+实现内容：
+
+- LED 闪烁
+- 跑马灯效果
+- GPIO 输出控制
+- 定时循环逻辑
+
+---
 
 <details>
 <summary>English Introduction</summary>
@@ -43,17 +101,14 @@ Interested in:
 - Autonomous Driving
 - Software Engineering
 
----
-
 ## Tech Stack
 
 - Java
 - Python
 - SQL
+- JavaScript
 - JavaFX
 - Linux
-
----
 
 ## Featured Projects
 
@@ -69,8 +124,6 @@ Current progress:
 - RL environment deployment
 - Simulation workflow setup
 
----
-
 ### London Air Quality JavaFX App
 
 A JavaFX-based air pollution visualization system.
@@ -82,13 +135,6 @@ Features:
 - Dynamic UI
 - Data indexing
 
-Tech:
-- Java
-- JavaFX
-- GitHub Collaboration
-
----
-
 ### Arduino Nano Embedded System Experiments
 
 Implemented:
@@ -96,17 +142,5 @@ Implemented:
 - Running light effects
 - GPIO control
 - Timing logic
-
----
-
-## Currently Learning
-
-- Data Structures & Algorithms
-- Backend Development
-- Reinforcement Learning
-- System Design
-
----
-
 
 </details>
