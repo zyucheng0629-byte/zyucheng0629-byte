@@ -35,6 +35,8 @@
 ### F1TENTH 自动驾驶强化学习环境
 
 基于 WSL2 + Ubuntu 搭建 F1TENTH Gym 自动驾驶强化学习环境。
+## Demo
+![Demo](screenshot/raboracing.png)
 
 目前已完成：
 
@@ -111,6 +113,8 @@ Interested in:
 ## Featured Projects
 
 ### F1TENTH Reinforcement Learning Environment
+## Demo
+![Demo](screenshot/raboracing.png)
 
 Built an autonomous driving reinforcement learning environment using:
 - WSL2
