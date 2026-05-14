@@ -119,7 +119,7 @@ Computer Science student at King's College London in the First Year.
 
 ### F1TENTH Reinforcement Learning Environment
 ## Demo
-![Demo](screenshot/raboracing.png)
+![Demo](screenshot/roboracing.png)
 
 Built an autonomous driving reinforcement learning environment using:
 - WSL2
