@@ -1,4 +1,3 @@
-```md
 <h1 align="center">卓宇城 | Yucheng Zhuo</h1>
 
 <p align="center">
