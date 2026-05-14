@@ -49,16 +49,6 @@ Backend Development · Reinforcement Learning · Autonomous Driving · Software 
 
 ---
 
-# GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zyucheng0629-byte&show_icons=true">
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyucheng0629-byte&layout=compact">
-</p>
-
----
-
 # 项目经历
 
 ## F1TENTH 自动驾驶强化学习环境
