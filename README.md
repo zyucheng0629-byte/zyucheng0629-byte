@@ -117,6 +117,8 @@ Computer Science student at King's College London in the First Year.
 
 ## Featured Projects
 
+---
+
 ### F1TENTH Reinforcement Learning Environment
 ## Demo
 ![Demo](screenshot/roboracing-gif.gif)
@@ -130,6 +132,8 @@ Current progress:
 - Waypoint Following
 - RL environment deployment
 - Simulation workflow setup
+
+---
 
 ### London Air Quality JavaFX App
 
@@ -145,6 +149,8 @@ Features:
 - Trend analysis
 - Dynamic UI
 - Data indexing
+
+---
 
 ### Arduino Nano Embedded System Experiments
 
