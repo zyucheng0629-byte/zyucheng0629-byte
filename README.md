@@ -56,8 +56,9 @@
 基于 JavaFX 开发的空气污染可视化系统。
 ## Demo
 
-![Demo](screenshots/home.png)
-![Demo](screenshots/interactive-dashboard.png)
+![Demo](screenshot/home.png)
+![Demo](screenshot/interactive-dashboard.png)
+
 实现功能：
 
 - 实时 AQI 数据接口
