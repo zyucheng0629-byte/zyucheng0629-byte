@@ -1,8 +1,14 @@
 # 卓宇城 | Yucheng Zhuo
 
-伦敦国王学院（KCL）计算机科学专业学生。
+<h1 align="center">卓宇城</h1>
 
-目前关注方向：
+<p align="center">
+伦敦国王学院（KCL）计算机科学专业
+</p>
+
+---
+
+## 🚀 目前关注方向
 
 - 后端开发
 - 强化学习（RL）
@@ -11,23 +17,36 @@
 
 ---
 
-## 技术栈
+## 💻 技术栈
 
 ### 编程语言
-- Java
-- Python
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 开发工具
-- GitHub
-- JavaFX
-- Linux
 
-### 学习方向
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaFX](https://img.shields.io/badge/JavaFX-red?style=for-the-badge)
+
+---
+
+## 📚 学习方向
+
 - 数据结构与算法
 - 后端开发
 - 强化学习
 - 系统设计
 
+---
+
+## 🎯 当前目标
+
+- 提升工程能力
+- 构建完整项目
+- 深入学习后端架构
+- 寻找软件工程相关实习机会
 ---
 
 ## 项目经历
