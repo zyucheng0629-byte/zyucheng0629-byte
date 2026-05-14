@@ -101,8 +101,6 @@ Interested in:
 
 - Java
 - Python
-- SQL
-- JavaScript
 - JavaFX
 - Linux
 
