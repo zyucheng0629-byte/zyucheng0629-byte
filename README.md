@@ -57,7 +57,7 @@
 ## Demo
 
 ![Demo](screenshot/home.png)
-![Demo](screenshot/interactive-dashboard.png)
+[▶ 演示视频](https://b23.tv/tG76saT)
 
 实现功能：
 
