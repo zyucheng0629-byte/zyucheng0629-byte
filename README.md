@@ -16,15 +16,11 @@
 ### 编程语言
 - Java
 - Python
-- SQL
-- JavaScript
 
 ### 开发工具
-- Git & GitHub
+- GitHub
 - JavaFX
 - Linux
-- MySQL
-- Arduino Nano
 
 ### 学习方向
 - 数据结构与算法
