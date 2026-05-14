@@ -36,7 +36,7 @@
 
 基于 WSL2 + Ubuntu 搭建 F1TENTH Gym 自动驾驶强化学习环境。
 ## Demo
-![Demo](screenshot/raboracing.png)
+![Demo](screenshot/roboracing.png)
 
 目前已完成：
 
