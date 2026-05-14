@@ -1,7 +1,7 @@
 <h1 align="center">卓宇城 | Yucheng Zhuo</h1>
 
 <p align="center">
-伦敦国王学院（KCL）计算机科学专业
+伦敦国王学院（KCL）计算机科学专业 大一
 </p>
 
 ---
