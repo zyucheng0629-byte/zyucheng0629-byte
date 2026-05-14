@@ -67,7 +67,7 @@ Backend Development · Reinforcement Learning · Autonomous Driving · Software 
 
 ### Demo
 
-![Demo](assets/roboracing.gif)
+![Demo](screenshot/roboracing-gif.gif)
 
 ### 已完成内容
 
@@ -91,7 +91,7 @@ Backend Development · Reinforcement Learning · Autonomous Driving · Software 
 
 ### Demo
 
-![Demo](assets/home.png)
+![Demo](screenshot/home.png)
 
 [▶ 演示视频](https://b23.tv/tG76saT)
 
@@ -171,7 +171,7 @@ Built an autonomous driving reinforcement learning environment using:
 
 ### Demo
 
-![Demo](assets/roboracing.gif)
+![Demo]( screenshot/roboracing.gif)
 
 ### Completed
 
@@ -194,7 +194,7 @@ A JavaFX-based air pollution visualization system.
 
 ### Demo
 
-![Demo](assets/home.png)
+![Demo](screenshot/home.png)
 
 [▶ Demo Video](https://b23.tv/tG76saT)
 
