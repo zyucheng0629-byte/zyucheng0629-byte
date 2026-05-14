@@ -6,15 +6,7 @@
 
 ---
 
-## 目前关注方向
-
-- 后端开发
-- 强化学习（RL）
-- 自动驾驶
-
----
-
-## 💻 技术栈
+## 技术栈
 
 ### 编程语言
 
@@ -33,17 +25,15 @@
 
 - 数据结构与算法
 - 后端开发
-- 强化学习
-- 系统设计
+- 数据库
 
 ---
 
 ## 当前目标
 
-- 提升工程能力
-- 构建完整项目
+- 基于ICRA Roboracing项目学习强化学习（RL）
+- ROS开发
 - 深入学习后端架构
-- 寻找软件工程相关实习机会
 ---
 
 ## 项目经历
@@ -111,20 +101,19 @@
 
 # Yucheng Zhuo
 
-Computer Science student at King's College London.
+Computer Science student at King's College London in the First Year.
 
-Interested in:
-- Backend Development
-- Reinforcement Learning
-- Autonomous Driving
-- Software Engineering
 
 ## Tech Stack
 
-- Java
-- Python
-- JavaFX
-- Linux
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Toolkit
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![JavaFX](https://img.shields.io/badge/JavaFX-red?style=for-the-badge)
+
 
 ## Featured Projects
 
