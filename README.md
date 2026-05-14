@@ -31,7 +31,7 @@
 实现 LED 控制、GPIO 输出与定时逻辑。
 
 <details>
-<summary>中文介绍</summary>
+<summary>English Introduction</summary>
 
 # Yucheng Zhuo
 
