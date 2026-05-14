@@ -54,6 +54,9 @@
 ### 伦敦空气质量 JavaFX APP
 
 基于 JavaFX 开发的空气污染可视化系统。
+## Demo
+
+![Demo](screenshots/home.gif)
 
 实现功能：
 
