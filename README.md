@@ -159,7 +159,7 @@ Built an autonomous driving reinforcement learning environment using:
 
 ### Demo
 
-![Demo]( screenshot/roboracing.gif)
+![Demo]( screenshot/roboracing-gif.gif)
 
 ### Completed
 
