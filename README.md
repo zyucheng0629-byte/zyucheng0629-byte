@@ -10,21 +10,24 @@ Backend Development · Reinforcement Learning · Autonomous Driving · Software 
 
 ---
 
-# 技术栈
+#  技术栈
 
-## 编程语言
-
+### 开发语言
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+### 开发工具
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## 开发工具与环境
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=openjdk&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### 开发环境
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### GUI
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge)
 
 ---
 
@@ -129,21 +132,24 @@ Interested in:
 
 ---
 
-# 技术栈
+#  Tech Stack
 
-## 编程语言
-
+### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
----
+### Tools
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
+![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
-## 开发工具与环境
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge&logo=openjdk&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+### Environment
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+### GUI
+![JavaFX](https://img.shields.io/badge/JavaFX-FF6600?style=for-the-badge)
 
 ---
 
