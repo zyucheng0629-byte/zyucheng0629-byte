@@ -1,11 +1,11 @@
 <h1 align="center">卓宇城 | Yucheng Zhuo</h1>
 
 <p align="center">
-King's College London Computer Science Undergraduate
+伦敦国王大学 计算机科学本科
 </p>
 
 <p align="center">
-Backend Development · Reinforcement Learning · Autonomous Driving · Software Engineering
+后端算法 · 强化学习 · 自动驾驶 · 软件工程
 </p>
 
 ---
@@ -34,10 +34,11 @@ Backend Development · Reinforcement Learning · Autonomous Driving · Software 
 # 学习方向
 
 - 数据结构与算法
-- 后端开发
+- 面向对象编程
 - 数据库系统
 - 强化学习（RL）
-- 系统设计
+- 嵌入式系统
+
 
 ---
 
@@ -45,7 +46,7 @@ Backend Development · Reinforcement Learning · Autonomous Driving · Software 
 
 - 基于 ICRA RoboRacing 项目学习强化学习
 - 深入学习 ROS 开发
-- 构建完整后端项目
+- 基于APP项目积累全栈开发经验
 - 学习工程化开发流程
 - 提升软件工程能力
 
